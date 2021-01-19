@@ -13,7 +13,7 @@ namespace WebApplication_CICD
     {
         public static void Main(string[] args)
         {
-          //  int a = "123";
+           int a = "123";
             CreateHostBuilder(args).Build().Run();
         }
 
