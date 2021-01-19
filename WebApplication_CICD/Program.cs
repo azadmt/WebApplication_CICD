@@ -12,7 +12,8 @@ namespace WebApplication_CICD
     public class Program
     {
         public static void Main(string[] args)
-        {sasd
+        {
+            int a = "123";
             CreateHostBuilder(args).Build().Run();
         }
 
